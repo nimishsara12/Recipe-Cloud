@@ -62,10 +62,3 @@ This web application is built using HTML, CSS3, SASS, JavaScript, NPM, Parcel.
   </li>
 </ul>
 
-<h2>Author's Links</h2>
-
-<ul>
-  <li>Portfolio - <a href="https://sammyleths.com" target="_blank">@SammyLeths</a></li>
-  <li>Linkedin - <a href="https://www.linkedin.com/in/eyiowuawi/" target="_blank">@SammyLeths</a></li>
-  <li>Twitter - <a href="https://twitter.com/SammyLeths" target="_blank">@SammyLeths</a></li>
-</ul>
